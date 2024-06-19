@@ -6,14 +6,10 @@
 
 I'm a Full-Stack developper with a passion for Programming. I love working on projects related to AI, Security, Web and Software and continuously learning new technologies to improve my skills.
 
-- 🔭 I’m currently working on {Your Current Project}
-- 🌱 I’m currently learning {Your Current Learning}
-- 👯 I’m looking to collaborate on {Your Collaboration Interests}
-- 🤔 I’m looking for help with {Your Help Requests}
-- 💬 Ask me about {Your Expertise Areas}
-- 📫 How to reach me: {Your Contact Information}
-- 😄 Pronouns: {Your Pronouns}
-- ⚡ Fun fact: {Your Fun Fact}
+- 🔭 I’m currently working on Cyframe Applications
+- 🌱 I’m currently learning ExpressJS
+- 💬 Ask me about React, Java, JS, Docker and more
+- 📫 How to reach me: www.christopherwilliam.ca
 
 ## 🛠️ Technologies & Tools
 
@@ -44,6 +40,5 @@ Here are a few projects I've been working on:
 
 ## 📫 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/{Your LinkedIn Username}/)
-- [Twitter](https://twitter.com/{Your Twitter Username})
-- [Personal Website](https://www.yourwebsite.com)
+- [LinkedIn](https://www.linkedin.com/in/christopher-william-archambault-bouffard/)
+- [Personal Website](https://www.christopherwilliam.ca)
