@@ -1,6 +1,6 @@
 # Hi there, I'm Christopher! 👋
 
-![Header Image](https://via.placeholder.com/800x200.png?text=Welcome+to+my+GitHub+Profile)
+![Header Image](https://avatars.githubusercontent.com/u/61324450?s=400&u=f3ce0754257e95bea5ab33a80d29f43b3cb9803f&v=4)
 
 ## About Me
 
