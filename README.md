@@ -21,22 +21,17 @@ I'm a Full-Stack developper with a passion for Programming. I love working on pr
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-
-## 📈 GitHub Stats
-
-![{Your Name}'s GitHub Stats](https://github-readme-stats.vercel.app/api?username={Your GitHub Username}&show_icons=true&theme=radical)
-
-## 📊 Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={Your GitHub Username}&layout=compact&theme=radical)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## 🚀 Projects
 
 Here are a few projects I've been working on:
 
-- [Project 1](https://github.com/{Your GitHub Username}/{Project 1}) - {Short Description of Project 1}
-- [Project 2](https://github.com/{Your GitHub Username}/{Project 2}) - {Short Description of Project 2}
-- [Project 3](https://github.com/{Your GitHub Username}/{Project 3}) - {Short Description of Project 3}
+- [Project 1](https://github.com/EchoingEkko00/mcgill-physics-hackathon-2023) - {Hoffman  Transfer Simulation}
 
 ## 📫 Connect with Me
 
