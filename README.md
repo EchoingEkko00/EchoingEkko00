@@ -6,7 +6,7 @@
 
 I'm a Full-Stack developper with a passion for Programming. I love working on projects related to AI, Security, Web and Software and continuously learning new technologies to improve my skills.
 
-- 🔭 I’m currently working on Cyframe Applications
+- 🔭 I’m currently working at Cyframe
 - 🌱 I’m currently learning ExpressJS
 - 💬 Ask me about React, Java, JS, Docker and more
 - 📫 How to reach me: www.christopherwilliam.ca
