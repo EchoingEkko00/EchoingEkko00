@@ -31,7 +31,7 @@ I'm a Full-Stack developper with a passion for Programming. I love working on pr
 
 Here are a few projects I've been working on:
 
-- [Project 1](https://github.com/EchoingEkko00/mcgill-physics-hackathon-2023) - {Hoffman  Transfer Simulation}
+- [Hoffman Transfer Simulation](https://github.com/EchoingEkko00/mcgill-physics-hackathon-2023) - {https://echoingekko00.github.io/mcgill-physics-hackathon-2023/}
 
 ## 📫 Connect with Me
 
