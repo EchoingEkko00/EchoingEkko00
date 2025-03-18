@@ -59,3 +59,5 @@ More projects coming soon... 🚀
 - [LinkedIn](https://www.linkedin.com/in/christopher-william-archambault-bouffard/)  
 - [Instagram](https://www.instagram.com/lechrist666?igsh=MWd1Z3BwcWM0NHIydw==)  
 - [Facebook](https://www.facebook.com/JesusChrisDeNazareth/)  
+
+## Thanks for visiting my profile! Feel free to check out my repositories and connect. 🚀
