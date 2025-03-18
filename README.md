@@ -10,24 +10,24 @@ I'm a Full-Stack Developer passionate about AI, Security, Web, and Software Deve
 ⚡ Fun Fact: I’m always looking for ways to automate everyday tasks and optimize workflows!
 
 ## 🧠 Interests & Specialties
-Artificial Intelligence 🧠 → Experimenting with AI models & integrations
-Cybersecurity 🔒 → Passionate about ethical hacking & security best practices, also a participant of multiple CTF Hackaton
-Web & Mobile Development 🌍 📱 → Full-stack expertise in React, Angular, VueJS, Flutter, and more
-DevOps & Automation ⚙️ → Working with Docker, Linux, and CI/CD pipelines
+Artificial Intelligence 🧠 → Experimenting with AI models & integrations  
+Cybersecurity 🔒 → Passionate about ethical hacking & security best practices, also a participant of multiple CTF Hackaton  
+Web & Mobile Development 🌍 📱 → Full-stack expertise in React, Angular, VueJS, Flutter, and more  
+DevOps & Automation ⚙️ → Working with Docker, Linux, and CI/CD pipelines  
 
 ## 🔥 Featured Projects
 ### Harbor
-🌍 A platform connecting professionals with clients seeking specialized services.
-🔗 Live: [Harbor](https://harbor.site)
-📂 Repo: (Private)
+🌍 A platform connecting professionals with clients seeking specialized services.  
+🔗 Live: [Harbor](https://harbor.site)  
+📂 Repo: (Private)  
 
 ### @HACK 2025
-🛡️ Cybersecurity CTF & Innovation Challenge
-🏆 2nd Place - Beginner Track 🎉 (First-ever CTF competition!)
-🔍 Competed in forensics, reverse engineering, cryptography, and web security challenges, showcasing problem-solving skills under pressure.
-🚀 Gained hands-on experience in exploiting vulnerabilities, analyzing forensic data, and securing applications.
-📝 Writing a technical report & challenge writeups to share insights and lessons learned.
-📂 Repo & Writeups: (Coming soon...)
+🛡️ Cybersecurity CTF & Innovation Challenge  
+🏆 2nd Place - Beginner Track 🎉 (First-ever CTF competition!)  
+🔍 Competed in forensics, reverse engineering, cryptography, and web security challenges, showcasing problem-solving skills under pressure.  
+🚀 Gained hands-on experience in exploiting vulnerabilities, analyzing forensic data, and securing applications.  
+📝 Writing a technical report & challenge writeups to share insights and lessons learned.  
+📂 Repo & Writeups: (Coming soon...)  
 
 
 ### Hoffman Transfer Simulation
