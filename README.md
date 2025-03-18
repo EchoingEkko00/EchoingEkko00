@@ -16,12 +16,12 @@ Web & Mobile Development 🌍 📱 → Full-stack expertise in React, Angular, V
 DevOps & Automation ⚙️ → Working with Docker, Linux, and CI/CD pipelines
 
 ## 🔥 Featured Projects
-# Harbor
+### Harbor
 🌍 A platform connecting professionals with clients seeking specialized services.
 🔗 Live: [Harbor](https://harbor.site)
 📂 Repo: (Private)
 
-# @HACK 2025
+### @HACK 2025
 🛡️ Cybersecurity CTF & Innovation Challenge
 🏆 2nd Place - Beginner Track 🎉 (First-ever CTF competition!)
 🔍 Competed in forensics, reverse engineering, cryptography, and web security challenges, showcasing problem-solving skills under pressure.
@@ -30,7 +30,7 @@ DevOps & Automation ⚙️ → Working with Docker, Linux, and CI/CD pipelines
 📂 Repo & Writeups: (Coming soon...)
 
 
-# Hoffman Transfer Simulation
+### Hoffman Transfer Simulation
 ⚛️ A physics simulation built for the McGill Hackathon 2023.
 🔗 Repo: [Hoffman Transfer Simulation](https://github.com/EchoingEkko00/mcgill-physics-hackathon-2023)
 
