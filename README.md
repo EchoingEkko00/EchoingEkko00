@@ -38,13 +38,13 @@ More projects coming soon... 🚀
 
 ## 🛠️ Technologies & Tools
 
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)  
-![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5)  
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3)  
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)  
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)  
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)  
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)  
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)  
