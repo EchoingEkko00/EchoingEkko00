@@ -18,7 +18,7 @@ DevOps & Automation ⚙️ → Working with Docker, Linux, and CI/CD pipelines
 ## 🔥 Featured Projects
 ### Harbor
 🌍 A platform connecting professionals with clients seeking specialized services.  
-🔗 Live: [Harbor](https://harbor.site)  
+🔗 Live: [Harbor](https://harbor.ca)  
 📂 Repo: (Private)  
 
 ### @HACK 2025
